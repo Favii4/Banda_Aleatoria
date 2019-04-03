@@ -7,4 +7,4 @@ Diego Alejandro Malagón -  20162020098
 
 Christian Delgadillo - 20162020440
 
-![img](https://github.com/DanZaky/Modelos-I/blob/master/Diagrama%20UML%20-%20Banda%20Aleatoria.png)
+![img](https://github.com/Favii4/Banda_Aleatoria/blob/master/Diagrama%20UML%20-%20Banda%20Aleatoria.png?raw=true)
